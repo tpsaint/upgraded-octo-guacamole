@@ -98,7 +98,7 @@
     "vscode-test": "^1.6.1"
   },
   "dependencies": {
-    "@types/bluebird": "^3.5.38",
+    "@types/bluebird": "^3.5.42",
     "@types/sinon-chai": "^3.2.9",
     "bluebird": "^3.7.2",
     "openai": "^3.2.1"
