@@ -101,6 +101,6 @@
     "@types/bluebird": "^3.5.38",
     "@types/sinon-chai": "^3.2.9",
     "bluebird": "^3.7.2",
-    "openai": "^3.2.1"
+    "openai": "^4.0.0"
   }
 }
